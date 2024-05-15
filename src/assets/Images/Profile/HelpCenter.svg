@@ -1,0 +1,8 @@
+<svg id="Iconly_Curved_Info_Square" data-name="Iconly/Curved/Info Square" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Iconly_Curved_Info_Square-2" data-name="Iconly/Curved/Info Square" width="24" height="24" fill="none"/>
+  <g id="Group">
+    <path id="Vector" d="M0,9.25C0,2.313,2.313,0,9.25,0S18.5,2.313,18.5,9.25,16.187,18.5,9.25,18.5,0,16.187,0,9.25Z" transform="translate(21.25 21.25) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line" d="M.5,3.895V0" transform="translate(12.5 15.895) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-2" data-name="Line" d="M.5.5H.5" transform="translate(12.5 9) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+  </g>
+</svg>

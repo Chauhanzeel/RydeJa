@@ -1,0 +1,15 @@
+<svg id="Iconly_Curved_Calendar" data-name="Iconly/Curved/Calendar" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="Iconly_Curved_Calendar-2" data-name="Iconly/Curved/Calendar" width="20" height="20" fill="none"/>
+  <g id="Group">
+    <path id="Vector" d="M0,7.728C0,1.932,1.933,0,7.728,0s7.729,1.932,7.729,7.728-1.932,7.728-7.729,7.728S0,13.525,0,7.728Z" transform="translate(2.291 2.918)" fill="none" stroke="#FFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line" d="M0,.417H15.007" transform="translate(2.521 7.353)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-2" data-name="Line" d="M.413.417H.42" transform="translate(13.278 10.634)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-3" data-name="Line" d="M.413.417H.42" transform="translate(9.611 10.634)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-4" data-name="Line" d="M.413.417H.42" transform="translate(5.938 10.634)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-5" data-name="Line" d="M.413.417H.42" transform="translate(13.278 13.844)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-6" data-name="Line" d="M.413.417H.42" transform="translate(9.611 13.844)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-7" data-name="Line" d="M.413.417H.42" transform="translate(5.938 13.844)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-8" data-name="Line" d="M.417,0V2.718" transform="translate(12.944 1.708)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line-9" data-name="Line" d="M.417,0V2.718" transform="translate(6.271 1.708)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+  </g>
+</svg>

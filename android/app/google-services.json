@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "603478696273",
+    "project_id": "rydeja",
+    "storage_bucket": "rydeja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603478696273:android:85446135495ac49f14b370",
+        "android_client_info": {
+          "package_name": "app.rydeja.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603478696273-ah7rkgstu8656prs8tpjsifglpj8hrcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.rydeja.com",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "603478696273-asuq1l0jlv1tvssdis6vdakdrebtf1tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.rydeja.com",
+            "certificate_hash": "490c9201ffeffe9ddce97f74343e37810e89c2aa"
+          }
+        },
+        {
+          "client_id": "603478696273-la8ql6rgvueeaa5tq9jne7dld639ak9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.rydeja.com",
+            "certificate_hash": "0835b86ad69fe2882b17ff26fb2257d8001283ec"
+          }
+        },
+        {
+          "client_id": "603478696273-ri2s8p7ukap00nd2ljplthvneotod00e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfNYE5u8y4A7pVD1rNP88fJoAjaZrp0AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603478696273-ri2s8p7ukap00nd2ljplthvneotod00e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603478696273-n43k3nqhm3h39rp5t2vhv5cdikutbff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.rydeja.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="profile_photo_icon" data-name="profile photo_icon" transform="translate(-174 -415)">
+    <g id="_1" data-name="1" transform="translate(174 415)" fill="none" stroke="#e0ba22" stroke-width="2">
+      <rect width="80" height="80" rx="40" stroke="none"/>
+      <rect x="1" y="1" width="78" height="78" rx="39" fill="none"/>
+    </g>
+    <path id="Path_697" data-name="Path 697" d="M0-159.365a11.3,11.3,0,0,1,11.3-11.3,11.3,11.3,0,0,1,11.3,11.3,11.3,11.3,0,0,1-11.3,11.3A11.3,11.3,0,0,1,0-159.365Z" transform="translate(202.698 604.829)" fill="none" stroke="#e0ba22" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_698" data-name="Path 698" d="M-475.727-36.106a19.474,19.474,0,0,1,4.952,3.093,8.807,8.807,0,0,1,2.985,6.619v3.267a3.532,3.532,0,0,1-3.532,3.532h-34.61a3.532,3.532,0,0,1-3.532-3.532v-3.267a8.807,8.807,0,0,1,2.985-6.619c3.221-2.83,9.1-5.654,17.852-5.654" transform="translate(702.626 495.433)" fill="none" stroke="#e0ba22" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

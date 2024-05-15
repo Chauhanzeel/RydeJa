@@ -1,0 +1,14 @@
+<svg id="Auto_Layout_Horizontal" data-name="Auto Layout Horizontal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="26.106" viewBox="0 0 24 26.106">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.15" y1="0.15" x2="0.915" y2="0.915" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#FEBB1B"/>
+      <stop offset="1" stop-color="#FEBB1B"/>
+    </linearGradient>
+  </defs>
+  <g id="Frame">
+    <rect id="Frame-2" data-name="Frame" width="24" height="24" fill="none"/>
+    <path id="Vector" d="M24,12A12,12,0,1,1,12,0,12,12,0,0,1,24,12Z" fill="url(#linear-gradient)"/>
+    <path id="Vector-2" data-name="Vector" d="M6.7,19.872A12.66,12.66,0,0,1,5,20a12.729,12.729,0,0,1-1.882-.155V10.752H0V7.444H3.114v-2.2C3.114,1.6,4.889,0,7.918,0A17.556,17.556,0,0,1,10.5.156V3.043H8.433C7.148,3.043,6.7,4.261,6.7,5.635V7.444h3.768l-.512,3.308H6.7Z" 
+    transform="translate(7.03 6.106)" fill="#1F222A"/>
+  </g>
+</svg>

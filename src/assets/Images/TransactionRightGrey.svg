@@ -1,0 +1,9 @@
+<svg id="Arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Iconly_Bold_Arrow_-_Right_Square" data-name="Iconly/Bold/Arrow - Right Square" width="24" height="24" fill="none"/>
+  <g id="Iconly_Bold_Arrow_-_Right_Square-2" data-name="Iconly/Bold/Arrow - Right Square">
+    <rect id="Iconly_Bold_Arrow_-_Right_Square-3" data-name="Iconly/Bold/Arrow - Right Square" width="24" height="24" fill="none"/>
+    <g id="Arrow_-_Right_Square" data-name="Arrow - Right Square">
+      <path id="Arrow_-_Right_Square-2" data-name="Arrow - Right Square" d="M16.08,22H7.91C4.375,22,2,19.725,2,16.34V7.67C2,4.278,4.375,2,7.91,2h8.17C19.621,2,22,4.278,22,7.67V16.34C22,19.725,19.621,22,16.08,22ZM7.92,11.25a.751.751,0,0,0-.75.75.742.742,0,0,0,.75.751h6.35L11.79,15.22a.766.766,0,0,0-.22.53.792.792,0,0,0,.22.53.755.755,0,0,0,1.06,0l3.77-3.75a.77.77,0,0,0,0-1.06L12.85,7.72a.755.755,0,0,0-1.06,0,.767.767,0,0,0,0,1.07l2.479,2.46Z" fill="#9e9e9e"/>
+    </g>
+  </g>
+</svg>

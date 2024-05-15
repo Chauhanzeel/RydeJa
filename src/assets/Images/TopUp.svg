@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_516" data-name="Group 516" transform="translate(-27 -603)">
+    <rect id="Rectangle_62" data-name="Rectangle 62" width="60" height="60" rx="5" transform="translate(27 603)" fill="#212121"/>
+    <rect id="Auto_Layout_Horizontal" data-name="Auto Layout Horizontal" width="44" height="44" rx="22" transform="translate(35 611)" fill="#e0ba22"/>
+    <g id="Iconly_Bold_Wallet" data-name="Iconly/Bold/Wallet" transform="translate(45 621)">
+      <rect id="Iconly_Bold_Wallet-2" data-name="Iconly/Bold/Wallet" width="24" height="24" fill="none"/>
+      <g id="Group">
+        <path id="Exclude" d="M16.516,21H7.484a5.639,5.639,0,0,1-4.036-1.411A5.319,5.319,0,0,1,2,15.662V8.339A5.321,5.321,0,0,1,3.449,4.411,5.639,5.639,0,0,1,7.484,3h9.032a5.618,5.618,0,0,1,4.035,1.417A5.391,5.391,0,0,1,22,8.382H17.769v.035a3.467,3.467,0,1,0,0,6.933H22v.312a5.32,5.32,0,0,1-1.449,3.926A5.638,5.638,0,0,1,16.516,21ZM6.737,6.891a.757.757,0,0,0-.764.736.766.766,0,0,0,.764.754h5.645a.745.745,0,1,0,0-1.49Zm14.516,6.968H17.821a2.1,2.1,0,0,1-2.061-1.595,1.983,1.983,0,0,1,.433-1.652,2.092,2.092,0,0,1,1.576-.74h3.485A.738.738,0,0,1,22,10.6v2.531A.75.75,0,0,1,21.254,13.859Zm-3.341-2.817a.764.764,0,0,0-.533.213.731.731,0,0,0-.224.524.767.767,0,0,0,.764.754h.329a.746.746,0,1,0,0-1.491h-.337Z" fill="#35383f"/>
+      </g>
+    </g>
+  </g>
+</svg>

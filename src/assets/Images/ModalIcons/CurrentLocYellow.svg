@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Auto_Layout_Horizontal" data-name="Auto Layout Horizontal" transform="translate(-2 -2)">
+    <g id="Group">
+      <circle id="Ellipse" cx="7" cy="7" r="7" transform="translate(9 9)" fill="#febb1b"/>
+      <g id="Ellipse-2" data-name="Ellipse" transform="translate(2 2)" fill="none" stroke="#febb1b" stroke-width="2">
+        <circle cx="14" cy="14" r="14" stroke="none"/>
+        <circle cx="14" cy="14" r="13" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

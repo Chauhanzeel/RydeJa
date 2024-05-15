@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Black.ttf",
+      "sha1": "d6efdc8c120df6af92ad5836c150bcbdac58b44e"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "97e2be433a5c4f622112b723d9ea9a23df6338f4"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "7ca2cd2eae0ed0c291a02296d7467ce0cad64afc"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "0045e8ed82ec04dcf83f2330ab7cdaa7d5f65b84"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Light.ttf",
+      "sha1": "3571554641eb70658156b4f3705057a9cd380c7b"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6fd70300b7e19aa191a5eb06dc0374c46ca97dcb"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "6b81c92b065c20c37190d983a79fa38cf6e60552"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "201ccee5dcb1e9d38716168f3a56598a6808ed51"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Thin.ttf",
+      "sha1": "32564a6e35f7ff6c4a66fa493f5174aee3cc3ca6"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-Black.ttf",
+      "sha1": "d33f0dae39375bd0a709204bd801951886078e3c"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-Bold.ttf",
+      "sha1": "b25f6f60c22feaf33ec829c7ae6bb086af2f4d9e"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-ExtraBold.ttf",
+      "sha1": "4349fd2723b54c7ddb39455af90f4fbaaae4700c"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-Light.ttf",
+      "sha1": "19bb34834335dad3c8b3a74f1f700c6e3cafebce"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-Medium.ttf",
+      "sha1": "da11e2077535e358e004b439591d701f710918d2"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-Regular.ttf",
+      "sha1": "12ec7ea7813fc67247fbae7b8290b61b1559ec25"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-SemiBold.ttf",
+      "sha1": "b5d08f8959820a3797d083cdf84e0e7304f85dc4"
+    },
+    {
+      "path": "src/assets/fonts/Urbanist-Thin.ttf",
+      "sha1": "389d3f0cc612946cddf5e894f30d35de205b9017"
+    }
+  ]
+}

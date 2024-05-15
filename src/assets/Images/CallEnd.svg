@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202" height="202" viewBox="0 0 202 202">
+  <defs>
+    <filter id="Type_Button_Type_2_Icon_Type_3_Primary_Style_Default_State_Default_Theme_Default_Component_Button" x="0" y="0" width="202" height="202" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="24" result="blur"/>
+      <feFlood flood-color="#febb1b" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Hang_up" data-name="Hang up" transform="translate(-254 64)">
+    <g id="Type_Button_Type_2_Icon_Type_3_Primary_Style_Default_State_Default_Theme_Default_Component_Button-2" data-name="Type=Button, Type 2=Icon, Type 3=Primary, Style=Default, State=Default, Theme=Default, Component=Button" transform="translate(322)">
+      <g transform="matrix(1, 0, 0, 1, -68, -64)" filter="url(#Type_Button_Type_2_Icon_Type_3_Primary_Style_Default_State_Default_Theme_Default_Component_Button)">
+        <rect id="Type_Button_Type_2_Icon_Type_3_Primary_Style_Default_State_Default_Theme_Default_Component_Button-3" data-name="Type=Button, Type 2=Icon, Type 3=Primary, Style=Default, State=Default, Theme=Default, Component=Button" width="58" height="58" rx="29" transform="translate(68 64)" fill="#fd2424"/>
+      </g>
+      <g id="Iconly_Curved_Plus" data-name="Iconly/Curved/Plus" transform="translate(9 9)">
+        <rect id="Iconly_Curved_Plus-2" data-name="Iconly/Curved/Plus" width="40" height="40" fill="none"/>
+      </g>
+    </g>
+    <g id="call" transform="translate(372.645 30.067) rotate(137)">
+      <g id="Group_690" data-name="Group 690" transform="translate(0 0)">
+        <path id="Path_538" data-name="Path 538" d="M27.752,19.8a17.131,17.131,0,0,1-5.38-.857,2.459,2.459,0,0,0-2.392.5l-3.393,2.561a18.749,18.749,0,0,1-8.43-8.428l2.486-3.3a2.439,2.439,0,0,0,.6-2.471,17.157,17.157,0,0,1-.86-5.389A2.424,2.424,0,0,0,7.962,0H2.421A2.424,2.424,0,0,0,0,2.421,27.783,27.783,0,0,0,27.752,30.173a2.424,2.424,0,0,0,2.421-2.421V22.226A2.424,2.424,0,0,0,27.752,19.8Z" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

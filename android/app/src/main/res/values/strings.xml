@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RydeJa</string>
+    <string name="facebook_app_id">639573274348296</string>
+    <string name="facebook_client_token">9d00414c9bb8c5f9e37a1fa83a99fcdc</string> 
+    <string name="fb_login_protocol_scheme">fb639573274348296</string>
+</resources>

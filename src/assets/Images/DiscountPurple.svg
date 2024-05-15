@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="80" viewBox="0 0 83 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7210ff"/>
+      <stop offset="1" stop-color="#9d59ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group" transform="translate(-16 -16)">
+    <circle id="Ellipse" cx="31.5" cy="31.5" r="31.5" transform="translate(27 25)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse-2" data-name="Ellipse" cx="3.5" cy="3.5" r="3.5" transform="translate(92 25)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse-3" data-name="Ellipse" cx="4.5" cy="4.5" r="4.5" transform="translate(20 16)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse-4" data-name="Ellipse" cx="2" cy="2" r="2" transform="translate(18 73)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse-5" data-name="Ellipse" cx="1" cy="1" r="1" transform="translate(88 86)" fill="url(#linear-gradient)"/>
+    <g id="Iconly_Bold_Ticket_Star" data-name="Iconly/Bold/Ticket Star" transform="translate(45 43)">
+      <rect id="Iconly_Bold_Ticket_Star-2" data-name="Iconly/Bold/Ticket Star" width="26" height="26" fill="none"/>
+      <g id="Group-2" data-name="Group">
+        <path id="Subtract" d="M19.346,22.75H6.654A4.472,4.472,0,0,1,2.165,18.3V15.4a.81.81,0,0,1,.813-.8A1.608,1.608,0,0,0,4.593,13a1.528,1.528,0,0,0-1.615-1.5.811.811,0,0,1-.813-.806l0-2.993A4.473,4.473,0,0,1,6.655,3.25H19.343A4.473,4.473,0,0,1,23.831,7.7v2.9a.807.807,0,0,1-.812.806,1.6,1.6,0,1,0,0,3.2.809.809,0,0,1,.812.8v2.9A4.471,4.471,0,0,1,19.346,22.75ZM13,15.459h0l1.575.82a.805.805,0,0,0,.378.095.8.8,0,0,0,.788-.93l-.3-1.742,1.277-1.232a.779.779,0,0,0,.2-.815.79.79,0,0,0-.645-.538L14.51,10.86l-.79-1.584a.8.8,0,0,0-1.437,0l-.79,1.585-1.761.255a.8.8,0,0,0-.65.539.784.784,0,0,0,.2.815L10.561,13.7l-.3,1.742a.787.787,0,0,0,.319.778.8.8,0,0,0,.842.059L13,15.46Z" fill="#fff"/>
+      </g>
+    </g>
+    <circle id="Ellipse-6" data-name="Ellipse" cx="1" cy="1" r="1" transform="translate(62 17)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse-7" data-name="Ellipse" cx="1.5" cy="1.5" r="1.5" transform="translate(42 93)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse-8" data-name="Ellipse" cx="0.5" cy="0.5" r="0.5" transform="translate(70 92)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse-9" data-name="Ellipse" cx="1" cy="1" r="1" transform="translate(91 64)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse-10" data-name="Ellipse" cx="0.5" cy="0.5" r="0.5" transform="translate(16 49)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

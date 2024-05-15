@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.711" height="18" viewBox="0 0 13.711 18">
+  <g id="icon_Guest_instructions" data-name="icon_Guest instructions" transform="translate(-61)">
+    <path id="Path_814" data-name="Path 814" d="M74.556,4.373,70.338.155A.531.531,0,0,0,69.965,0H62.582A1.584,1.584,0,0,0,61,1.582V16.418A1.584,1.584,0,0,0,62.582,18H73.129a1.584,1.584,0,0,0,1.582-1.582V4.746A.533.533,0,0,0,74.556,4.373ZM70.492,1.8,72.91,4.219H71.02a.528.528,0,0,1-.527-.527Zm2.637,15.145H62.582a.528.528,0,0,1-.527-.527V1.582a.528.528,0,0,1,.527-.527h6.855V3.691A1.584,1.584,0,0,0,71.02,5.273h2.637V16.418A.528.528,0,0,1,73.129,16.945Z" fill="#fff"/>
+    <path id="Path_815" data-name="Path 815" d="M186.824,242h-5.294a.529.529,0,0,0,0,1.059h5.294a.529.529,0,1,0,0-1.059Zm0,2.118h-5.294a.529.529,0,1,0,0,1.059h5.294a.529.529,0,1,0,0-1.059Zm0,2.118h-5.294a.529.529,0,0,0,0,1.059h5.294a.529.529,0,0,0,0-1.059Z" transform="translate(-115.796 -233.506)" fill="#fff"/>
+    <circle id="Ellipse_73" data-name="Ellipse 73" cx="0.545" cy="0.545" r="0.545" transform="translate(63.171 8.625)" fill="#fff"/>
+    <circle id="Ellipse_74" data-name="Ellipse 74" cx="0.545" cy="0.545" r="0.545" transform="translate(63.171 10.796)" fill="#fff"/>
+    <circle id="Ellipse_75" data-name="Ellipse 75" cx="0.545" cy="0.545" r="0.545" transform="translate(63.171 12.968)" fill="#fff"/>
+  </g>
+</svg>

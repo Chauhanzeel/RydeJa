@@ -1,0 +1,58 @@
+export const CallsData = [
+  {
+    id: 1,
+    name: "Tanner Stafford",
+    type: "Incoming",
+    date: "Dec 17, 2024",
+    userImg: require("../../assets/Images/UserImages/user1.jpg"),
+  },
+  {
+    id: 2,
+    name: "Sanjuanita Ordonez",
+    type: "Incoming",
+    date: "Dec 17, 2024",
+    userImg: require("../../assets/Images/UserImages/user2.jpg"),
+  },
+  {
+    id: 3,
+    name: "Annabel Rohan",
+    type: "Missed",
+    date: "Nov 28, 2024",
+    userImg: require("../../assets/Images/UserImages/user3.jpg"),
+  },
+  {
+    id: 4,
+    name: "Daniel Austin",
+    type: "Incoming",
+    date: "Nov 24, 2024",
+    userImg: require("../../assets/Images/UserImages/user4.jpg"),
+  },
+  {
+    id: 5,
+    name: "Augustina Midgett",
+    type: "Incoming",
+    date: "Nov 14, 2024",
+    userImg: require("../../assets/Images/UserImages/user5.jpg"),
+  },
+  {
+    id: 6,
+    name: "Edgar Torrey",
+    type: "Missed",
+    date: "Oct 30, 2024",
+    userImg: require("../../assets/Images/UserImages/user6.jpg"),
+  },
+  {
+    id: 7,
+    name: "Rayford Chenail",
+    type: "Incoming",
+    date: "Oct 29, 2024",
+    userImg: require("../../assets/Images/UserImages/user7.jpg"),
+  },
+  {
+    id: 7,
+    name: "Francene Vandyne",
+    type: "Missed",
+    date: "Oct 29, 2024",
+    userImg: require("../../assets/Images/UserImages/user2.jpg"),
+  },
+];

@@ -1,0 +1,10 @@
+<svg id="Iconly_Light_Chat" data-name="Iconly/Light/Chat" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Iconly_Light_Chat-2" data-name="Iconly/Light/Chat" width="24" height="24" fill="none"/>
+  <g id="Group">
+    <path id="Vector" d="M17.071,17.07a10.006,10.006,0,0,1-11.285,2,4.048,4.048,0,0,0-1.421-.4c-1.187.007-2.664,1.158-3.432.391s.384-2.246.384-3.44a4,4,0,0,0-.391-1.414A10,10,0,1,1,17.071,17.07Z" 
+    transform="translate(2 2)" fill="#febb1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <path id="Line" d="M.5.5H.5" transform="translate(15.444 11.913)" fill="none" stroke="#181A20" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+    <path id="Line-2" data-name="Line" d="M.5.5H.5" transform="translate(11.435 11.913)" fill="none" stroke="#181A20" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+    <path id="Line-3" data-name="Line" d="M.5.5H.5" transform="translate(7.426 11.913)" fill="none" stroke="#181A20" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+  </g>
+</svg>

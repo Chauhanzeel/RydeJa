@@ -1,0 +1,107 @@
+export const ChatsData = [
+  {
+    roomId: "1",
+    name: "Tomer",
+    userImg: require("../../assets/Images/UserImages/user3.jpg"),
+    message: "Hi zeel, thank you!",
+    messages: [
+      {
+        id: "123",
+        text: "Hello tomer, welcome!",
+        time: "07:50",
+        user: "zeel",
+      },
+      {
+        id: "456",
+        text: "Hi zeel, thank you! 😇",
+        time: "08:50",
+        user: "David",
+      },
+    ],
+  },
+  {
+    roomId: "2",
+    name: "john",
+    userImg: require("../../assets/Images/UserImages/user4.jpg"),
+    message: "Hello",
+    messages: [
+      {
+        id: "123",
+        text: "Hello john, welcome!",
+        time: "07:50",
+        user: "zeel",
+      },
+      {
+        id: "456",
+        text: "Hi zeel, gm",
+        time: "08:50",
+        user: "john",
+      },
+    ],
+  },
+  // {
+  //   id: 3,
+  //   name: "Elmer Laverty",
+  //   message: "Missed",
+  //   date: "09.25",
+  //   userImg: require("../../assets/Images/UserImages/user3.jpg"),
+  //   createdAt: new Date().getTime(),
+  //   user: {
+  //     _id: 2,
+  //     name: "Elmer Laverty",
+  //   },
+  //   type: "text",
+  // },
+  // {
+  //   id: 4,
+  //   name: "Rochel Foose",
+  //   message: "I have booked your taxi now. Can you pick me up right away? 😁",
+  //   date: "Nov 24, 2024",
+  //   userImg: require("../../assets/Images/UserImages/user4.jpg"),
+  //   createdAt: new Date().getTime(),
+  //   user: {
+  //     _id: 2,
+  //     name: "Rochel Foose",
+  //   },
+  //   type: "text",
+  // },
+  // {
+  //   id: 1,
+  //   name: "Hannah Burress",
+  //   message: "just ideas for next time 😆",
+  //   date: "Dec 20, 2024",
+  //   userImg: require("../../assets/Images/UserImages/user5.jpg"),
+  //   createdAt: new Date().getTime(),
+  //   user: {
+  //     _id: 2,
+  //     name: "Hannah Burress",
+  //   },
+  //   type: "text",
+  // },
+  // {
+  //   id: 6,
+  //   name: "Tynisha Obey",
+  //   message: "I'm on the side of the road 😄😄",
+  //   date: "Dec 20, 2024",
+  //   userImg: require("../../assets/Images/UserImages/user6.jpg"),
+  //   createdAt: new Date().getTime(),
+  //   user: {
+  //     _id: 1,
+  //     name: "Tynisha Obey",
+  //   },
+  //   type: "text",
+  // },
+  // {
+  //   id: 7,
+  //   name: "Tyra Dhillon",
+  //   message: "perfect! 💯💯💯",
+  //   date: "Dec 18, 2024",
+  //   userImg: require("../../assets/Images/UserImages/user7.jpg"),
+  //   createdAt: new Date().getTime(),
+  //   user: {
+  //     _id: 2,
+  //     name: "Tyra Dhillon",
+  //   },
+  //   type: "text",
+  // },
+];
